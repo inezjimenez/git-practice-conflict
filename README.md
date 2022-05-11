@@ -1,3 +1,3 @@
 # git-practice-conflict
 
-This is my first local change.
+This is my second change.
